@@ -27,3 +27,6 @@ libGanglionLib.so
 libGanglionScan.so
 libunicorn.so
 OpenBCI_GUI/out/
+
+# Node.js dependencies
+node_modules/
